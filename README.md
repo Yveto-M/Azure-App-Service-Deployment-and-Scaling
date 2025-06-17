@@ -1,14 +1,12 @@
-# Azure-App-Service-Deployment-and-Scaling
-This project focuses on deploying a web application using Azure App Service, creating deployment slots for testing, configuring autoscaling based on demand, and enabling backups for disaster recovery. We'll also set up performance monitoring and alerts.
-
-
-Absolutely! Here's your updated **`README.md`** for **Project 5: Azure App Service Deployment and Scaling**, with **Step 6 modified to use HTTP Response Time** for alerting:
-
----
 
 # 🌐 Project 5: Azure App Service Deployment and Scaling
 
 **Topics Covered**: App Service, Deployment Slots, Autoscaling, Backup, Monitoring
+
+🧠 Summary
+
+This project focuses on deploying a web application using Azure App Service, creating deployment slots for testing, configuring autoscaling based on demand, and enabling backups for disaster recovery. You'll also set up performance monitoring and alerts.
+
 
 
 ## 💼 Scenario
