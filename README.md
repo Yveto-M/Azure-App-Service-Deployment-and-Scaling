@@ -41,7 +41,14 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Deploy the sample app to your App Service.
 * Confirm the app is running via the **App URL**.
 
-📸 *Screenshot of deployed web app.*
+📸 *Github Actions
+
+<img width="786" alt="github deployment" src="https://github.com/user-attachments/assets/e78535f0-37b9-4531-9bd5-2eae72dfaff5" />
+
+<img width="512" alt="azure-git-workflows" src="https://github.com/user-attachments/assets/05de21fd-ace8-4265-aa29-6ce75b2624d7" />
+
+📸 *deployed web app.*
+<img width="779" alt="proof of app deployment" src="https://github.com/user-attachments/assets/a8431468-5a8c-4df8-a7f8-a70fb36352e5" />
 
 ---
 
@@ -52,7 +59,10 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Deploy a new version of the app to the **Staging** slot.
 * Use the **Swap** feature to switch staging and production after testing.
 
-📸 *Screenshot of staging slot and swap option.*
+📸 *staging slot and swap option.*
+<img width="789" alt="github-staging-deployment" src="https://github.com/user-attachments/assets/9b2f74d6-c9e3-46bc-812e-ac721ab3e105" />
+
+<img width="801" alt="swap staging to pro" src="https://github.com/user-attachments/assets/a4c03bb3-1b9f-4d74-a59e-ae943dd8f413" />
 
 ---
 
@@ -62,7 +72,8 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Enable **Autoscale**.
 * Create a rule: scale out by 1 instance if **CPU > 70%** for 10 minutes.
 
-📸 *Screenshot of autoscale rule setup.*
+📸 * autoscale rule setup.*
+<img width="569" alt="scale rule" src="https://github.com/user-attachments/assets/d649eaec-b295-493f-b717-5351b854c914" />
 
 ---
 
@@ -73,9 +84,11 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Run a **manual backup**.
 * Test restoration to verify.
 
-📸 *Screenshot of backup configuration and success message.*
+📸 *backup configuration and success message.*
+<img width="575" alt="backup-config" src="https://github.com/user-attachments/assets/66da8d2f-d8ac-4acf-bd4b-433fe737239f" />
 
----
+📸 *backup Update success message.*
+<img width="737" alt="web-backup" src="https://github.com/user-attachments/assets/8decfee7-1b29-4d70-b9bd-f05044d2f1a9" />
 
 ### ✅ Step 6: Monitor and Configure Alerts
 
@@ -85,7 +98,12 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Set evaluation frequency to **1 minute** with a **5-minute lookback window**.
 * Name the alert and set up **email notifications** or **action groups**.
 
-📸 *Screenshot of response time alert configuration.*
+📸 *response time alert configuration.*
+<img width="757" alt="create alert rule" src="https://github.com/user-attachments/assets/4672918b-b20f-4ad3-9e7f-8fcd99c4782f" />
+
+<img width="714" alt="action group" src="https://github.com/user-attachments/assets/4d6f14fb-ac4c-4f4e-ad51-7373102a0024" />
+
+<img width="744" alt="app service final alert" src="https://github.com/user-attachments/assets/c4a28310-42c7-4b5c-b14f-11131b3d0156" />
 
 ---
 
@@ -97,7 +115,3 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * [x] Autoscaling configured
 * [x] Backups enabled and verified
 * [x] Monitoring and alerts (HTTP response time) set up
-
----
-
-Let me know when you’re ready to build the full **Projects 1–5 portfolio** or publish this to GitHub.
