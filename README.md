@@ -67,6 +67,7 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Create a rule: scale out by 1 instance if **CPU > 70%** for 10 minutes.
 
 📸 * autoscale rule setup.*
+
 <img width="569" alt="scale rule" src="https://github.com/user-attachments/assets/d649eaec-b295-493f-b717-5351b854c914" />
 
 ---
@@ -79,10 +80,12 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Test restoration to verify.
 
 📸 *backup configuration and success message.*
+
 <img width="575" alt="backup-config" src="https://github.com/user-attachments/assets/66da8d2f-d8ac-4acf-bd4b-433fe737239f" />
 
 
 📸 *backup Update success message.*
+
 <img width="737" alt="web-backup" src="https://github.com/user-attachments/assets/8decfee7-1b29-4d70-b9bd-f05044d2f1a9" />
 
 ### ✅ Step 6: Monitor and Configure Alerts
