@@ -35,7 +35,7 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Deploy the sample app to your App Service.
 * Confirm the app is running via the **App URL**.
 
-📸 *Github Actions
+📸 *Github Actions*
 
 <img width="786" alt="github deployment" src="https://github.com/user-attachments/assets/e78535f0-37b9-4531-9bd5-2eae72dfaff5" />
 
@@ -80,6 +80,7 @@ A company wants to deploy a web application using Azure App Service, test in iso
 
 📸 *backup configuration and success message.*
 <img width="575" alt="backup-config" src="https://github.com/user-attachments/assets/66da8d2f-d8ac-4acf-bd4b-433fe737239f" />
+
 
 📸 *backup Update success message.*
 <img width="737" alt="web-backup" src="https://github.com/user-attachments/assets/8decfee7-1b29-4d70-b9bd-f05044d2f1a9" />
