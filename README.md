@@ -79,7 +79,7 @@ A company wants to deploy a web application using Azure App Service, test in iso
 * Run a **manual backup**.
 * Test restoration to verify.
 
-📸 *backup configuration and success message.*
+📸 *backup configuration.*
 
 <img width="575" alt="backup-config" src="https://github.com/user-attachments/assets/66da8d2f-d8ac-4acf-bd4b-433fe737239f" />
 
