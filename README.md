@@ -4,16 +4,12 @@
 **Topics Covered**: App Service, Deployment Slots, Autoscaling, Backup, Monitoring
 
 🧠 Summary
-
 This project focuses on deploying a web application using Azure App Service, creating deployment slots for testing, configuring autoscaling based on demand, and enabling backups for disaster recovery. You'll also set up performance monitoring and alerts.
 
 
-
 ## 💼 Scenario
-
 A company wants to deploy a web application using Azure App Service, test in isolated slots, scale the app based on usage metrics, and ensure business continuity by configuring backups.
 
----
 
 ## ✅ Step-by-Step Implementation
 
